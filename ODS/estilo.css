@@ -1,0 +1,25 @@
+body{
+background-color: orange;
+}
+.tema{
+padding-left: 100px;
+}
+.titulo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:80px ;
+    margin-right:80px ;
+    padding-left: 350px;
+    background-color: rgb(218, 189, 26);
+}
+.resumo1{
+    margin-bottom: 10px;
+    margin-left:80px ;
+    margin-right:80px ;
+    background-color:rgba(245, 245, 245, 0.521);
+}
+.resumo2{
+    margin-left:80px ;
+    margin-right:80px ;
+    background-color:rgba(245, 245, 245, 0.521);
+}
